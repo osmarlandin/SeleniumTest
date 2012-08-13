@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSelenium", "TestSelenium\TestSelenium.csproj", "{724E6B61-359E-473C-B857-4128EB1B4DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{108777A3-69BF-41E0-B0D8-E605452D0406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108777A3-69BF-41E0-B0D8-E605452D0406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108777A3-69BF-41E0-B0D8-E605452D0406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108777A3-69BF-41E0-B0D8-E605452D0406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108777A3-69BF-41E0-B0D8-E605452D0406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724E6B61-359E-473C-B857-4128EB1B4DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724E6B61-359E-473C-B857-4128EB1B4DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724E6B61-359E-473C-B857-4128EB1B4DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724E6B61-359E-473C-B857-4128EB1B4DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
